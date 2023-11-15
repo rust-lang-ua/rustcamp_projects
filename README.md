@@ -31,7 +31,7 @@ kma course 2023q3
 | 25  | Sofiia P. | [Project]() |
 | 26  | Volodymyr S. | [Project](https://github.com/gutmann03/arithmetic_parser_smetaniuk)  |
 | 27  | Yaroslav F. | [Project](https://github.com/YaroslavFetisov/us_time_parser)  |
-| 28  | Bohdan T. | [Project](https://github.com/Qewby/constituency_tree_parse)  |
+| 28  | Bohdan T. | [Project](https://github.com/Qewby/constituency_tree_parser)  |
 | 29  | Illia S. | [Project]() |
 | 30  | Danylo B. | [Project]()  |
 | 31  | Dmytro  K. | [Project](https://github.com/Dima050209/rust_project_kma)  |
