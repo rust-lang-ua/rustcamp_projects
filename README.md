@@ -1,6 +1,6 @@
 # captsones
 
-##kma course 2023q3
+## kma course 2023q3
 
 |  №  | Student       | Project       |
 | --- | ------------- | ------------- |
@@ -38,7 +38,7 @@
 | 32  | Andrii V. | Project |
 
 
-##summer bootcamp 2023q3
+## summer bootcamp 2023q3
 
 |  №  | Participant       | Project       | Description |
 | --- | ------------- | ------------- | ------------- |
