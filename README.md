@@ -44,13 +44,7 @@
 | --- | ------------- | ------------- | ------------- |
 | 1   |  Yurii S.| []()          |               |
 | 2   |  Yarema M.| [Link Verifier](https://github.com/polcovnic/link_verifier)          |  Link Verifier is a CLI tool designed to verify links within given .md files. Designed with versatility in mind, it can seamlessly integrate with GitHub Actions, making it an essential tool for maintaining up-to-date and accurate links in your markdown files.             |
-| 3   |  Kyrylo S.| [fbmark](https://github.com/kstepanovdev/fbmark_v2)          |   "TUI Bookmark manager with synchronization to a third-party bookmark manager
-Main features:
-- CRUD for bookmarks, using SQLite3
-- Fuzzy search among bookmarks
-- TUI
-- Synchronization with a third-party service (Tagpacker only for now)
-- Tags for searching"            |
+| 3   |  Kyrylo S.| [fbmark](https://github.com/kstepanovdev/fbmark_v2)          |   TUI Bookmark manager with synchronization to a third-party bookmark manager. Main features: CRUD for bookmarks, using SQLite3, Fuzzy search among bookmarks, TUI, Synchronization with a third-party service (Tagpacker only for now), Tags for searching"            |
 | 4   |  Vitalii S.| [LaptopSelector](https://github.com/bugsweeper/laptop_selector)          |   Contains two parts: 1) Parses online shopping site rozetka.com.ua saving information about laptops, parses https://www.cpubenchmark.net/ and https://www.videocardbenchmark.net/ saving perfomance benchmarks of different cpus and gpus 2) Web server, which loads information about laptops perfomance and generates page with top items with best proportion of prefomance to price            |
 | 5   |  Mykhailo R.| [Gpt-summarizer](https://github.com/MykhailoRomanenko/gpt-summarizer-rs)          |   Cli-утиліта, що збирає текст з веб-сторінки, препроцесить та відправляє на API ChatGpt для сумаризації. Поєднує алгоритмічну сумаризацію локально для отримання множини найважливіших речень з сумаризацією моделлю.            |
 | 6   | Denis V.| [Gamac](https://github.com/NYBACHOK/gamac)          | Universal package manager              |
