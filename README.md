@@ -10,15 +10,15 @@
 | 4   | Yehor B. | [SQL Parser](https://github.com/yehorbolt/yehorbolt_sql_parser) | This is a simple SQL parser written in Rust using the pest library. The parser supports parsing CREATE TABLE statements with column definitions. |
 | 5   | Stanislav B. | [Markdown Parser](https://github.com/stas-bukovskiy/markdown_parser)  | This is a simple Markdown to HTML parser implemented in Rust using the pest parser generator library. It can convert Markdown text into HTML. |
 | 6   | Maria V. | [Markdown Parser in Rust](https://github.com/mverbytska/markdown_parser)  | Simple parser for Markdown language written in Rust |
-| 7   | Denys H.| Project | |
-| 8   | Serhii H. | Project | |
+| 7   | Denys H.| [rolyng_basic_make_parser](https://github.com/Rolyng28/rolyng_basic_make_parser) | Syntax parser created to parse basic Makefiles |
+| 8   | Serhii H. | [Meador Language Compiler](https://github.com/serhii-hryhorenko/kma_rust_parser) | Meador is a statically-typed language with a syntax similar to JavaScript and Rust. It supports variables, functions, and basic control flow structures. |
 | 9   | Oleksii D.  | [Jetpack Compose Rust Parser](https://github.com/NaUKMA-Programistich/compose_parser) | Rust parser created to parse the Jetpack Compose Text / Image View and get all text fields and images. |
-| 10  | Sofiia Y. | Project | |
+| 10  | Sofiia Y. | [URL Parser](https://github.com/sofiiayeremeieva/url_parser_rust) | This Rust library provides functionality for parsing URLs and extracting relevant components. It includes a command-line interface for parsing URLs from a string. |
 | 11  | Bohdan Z. | [M3U CLI Parser](https://github.com/elbeasto31/m3u-parser/blob/master/tests/lib_tests.rs)  | M3U Parser CLI is a Rust command-line application that parses M3U playlists, extracts valuable information such as entry titles and URLs, and provides the parsed results for further use. It is designed for users who need to work with M3U playlists, whether for media playback, playlist management, or other purposes |
 | 12  | Ruslan Z. | [Chord Mapper](https://github.com/Fourier2718281828/chord_mapper)  | Chord Mapper is a Rust project that provides a command-line utility for parsing chord notations and mapping them to the individual musical notes they consist of. |
-| 13  | Oleksii I. | Project | |
+| 13  | Oleksii I. | [Logical Expression Parser](https://github.com/Oleksii-Ivanichok/logical-expression-parser-rust) | This is a simple logical expression parser written in Rust using pest library. |
 | 14  | Vladyslav K. | [Rust zod compiler](https://github.com/kkpagaev/rust-ts-json-compiler)  | Compiles [zod](https://github.com/colinhacks/zod) schema to valid json payload. |
-| 15  | Victoria K. | Project | |
+| 15  | Victoria K. | [matrix-det-parser](https://github.com/KarachunViktoriia/matrix-det-parser) | matrix-det-parser - це інструмент командного рядка для обчислення детермінанту матриці з використанням бібліотеки nalgebra. |
 | 16  | Yehor K. | [monument_parser](https://github.com/RickNeelee/parser_rickneelee)  | The parser was created to update and support information about immovable cultural monuments of Ukraine in a single format. |
 | 17  | Arkadii K. | [Rust PLS File Parser](https://github.com/arkananasfa/my_parser_kma_group3Kovalenko/blob/5deef596a5d706bc8671a874a728f076cf187979/src/lib.rs#L39C4-L39C4)  | A Rust library for parsing PLS (Playlist) files. PLS files are commonly used to store playlists for multimedia applications. This library allows you to read PLS files in your Rust applications. |
 | 18  | Alisa L. | [YAML parser](https://github.com/alyssa-lakhtiuk/my_parser_rust/tree/master)  | YAML format parser written with Rust usint pest crate. |
@@ -28,12 +28,12 @@
 | 22  | Anastasia M. | [SVG File Parser](https://github.com/mahinka/svg_file_parser)  | Rust-based SVG parser designed to interpret Scalable Vector Graphics (SVG) files. |
 | 23  | Nazar P. | [url_parser_on_rust](https://github.com/jester69m/parser-on-rust) | This project implements a URL parser in Rust using the pest parser generator. The parser is designed to handle various components of a URL, including the scheme, host, port, path, query parameters, and fragment. |
 | 24  | Vadym P. | [Sentences Parser](https://github.com/rust-lang-ua/kma_rustlang_course_Vadym_Polischuk/tree/master/parser) | Simple parser of English sentences. Parser can identify single words, numbers, punctuation symbols, whitespaces, sentences and whole text. crates.io |
-| 25  | Sofiia P. | Project | |
+| 25  | Sofiia P. | [Json Rust Parser]() | This Rust project, named "my_parser_sofia" is designed to parse JSON files into a structured format.  |
 | 26  | Volodymyr S. | [Arithmetic expression calculator parser](https://github.com/gutmann03/arithmetic_parser_smetaniuk)  | This parser can be used to parse and calculate arithmetic expressions, including addition (+), subtraction (-), multiplication (*), division (/), and parentheses using operations. |
 | 27  | Yaroslav F. | [US Time Parser](https://github.com/YaroslavFetisov/us_time_parser)  | The US Time Parser is a Rust-based utility designed to parse various time components from input strings. It utilizes the pest crate for parsing grammar and clap for handling command-line arguments. |
 | 28  | Bohdan T. | [Constituency tree parser](https://github.com/Qewby/constituency_tree_parser)  | Parser created to parse constituency tree. |
-| 29  | Illia S. | Project | |
-| 30  | Danylo B. | Project | |
+| 29  | Illia S. | [PGN Parser for Chess Games](https://github.com/IlliaShev/pgn_parser) | This is a simple PGN (Portable Game Notation) parser for chess games written in Rust. It allows you to parse PGN files and extract information about chess games. |
+| 30  | Danylo B. | [Corp Parses](https://github.com/Rewriter00x/my_corp_parser) | My parser for educational purposes It can parse corporate user entry, in format Name Surname, n.surname@domain.com |
 | 31  | Dmytro  K. | [HTML Parser](https://github.com/Dima050209/rust_project_kma)  | This HTML parser will parse a HTML file according to HTML5 standarts. The parser checks content correctness, such as all tags and text inside of a html tag. Apart from this, it also checks presense of <!DOCTYPE html> and <html>...</html>. |
 | 32  | Andrii V. | Project | |
 
