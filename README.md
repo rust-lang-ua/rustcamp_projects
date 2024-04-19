@@ -1,6 +1,6 @@
 # captsones
 
-## summer bootcamp 2023q3
+## winter rustcamp 2024q1
 
 |  №  | Participant       | Project       | Description |
 | --- | ------------- | ------------- | ------------- |
