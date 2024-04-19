@@ -1,5 +1,25 @@
 # captsones
 
+## summer bootcamp 2023q3
+
+|  №  | Participant       | Project       | Description |
+| --- | ------------- | ------------- | ------------- |
+| 1   | Andrii A. | [Graph Visualization Telegram Bot](https://github.com/andrewalbrecht05/tg-graph-visualization) | Telegram bot that simplifies graph algo structure visualization by converting list of edges into an image.  |
+| 2   | Vadim B.| [Rim effect outline](https://github.com/vadimb892/bevy_rim_effect) | Rim effect outline realization in Bevy.  |
+| 3   | Kateryna G. | [F1 race report  telegram bot](https://github.com/R0ckyRacc00n/F1-race-report-telegram-bot) | The application collects and parses information from the official site of the F1 rase: formula1.com, and sends it to the user in Telegram after each Grand-Prix.  |
+| 4   | Veronika M. | [Dota 2 News and Updates Telegram Bot](https://github.com/nik0olyaa/dota_updates_tg_bot/tree/completed_project) | Telegram bot that sends Dota 2 news and updates as soon as they appear on the official Dota 2 site.  |
+| 5   | Vladyslav T.| [Tic-tac-toe multiplayer](https://github.com/vladislav-tkach/tictactoe) | Widely-known Tic-tac-toe game with multiplayer done via an HTTP server using axum web framework and PostgreSQL.  |
+| 6   | Dmitry T.| [barber_bot](https://github.com/trepachkoDm/barber_bot) | Telegram Bot for Service Appointments.  |
+| 7   | Maksym K. | [Splittea](https://github.com/khomiakmaxim/rust_splittea_bot/pull/1) | Telegram bot for tracking expenses in a group.  |
+| 8   | Andrii D. | [Ukrzaliznytsya train reminder Telegram bot](https://github.com/perioh/tg-uz-reminder) | Telegram bot to remind you about your train and notify, if the train is being late.  |
+| 9   | Dmytro K. | [cloud-storage-utilizer](https://github.com/BigglesworthCat/cloud-storage-utilizer) | Application for file manipulations on cloud storages.  |
+| 10  | Zhenya A. | [Water simulation](JekiXD/water-simulation (github.com)) | A simple water simulation using particle system, written with WebGPU.  |
+| 11  | Eduard P. | [stool - Image Steganography ](https://github.com/s473573/rust-capstone) | Writing secret messages to pictures.  |
+| 12  | Mark F. | [apiel - APL in Rust](https://github.com/NamesMark/apiel) | A small subset of the APL programming language implemented in Rust with a Yacc parser. Exports an `apl!` macro that evaluates the passed &str as an Dyalog APL expression.  |
+| 13  | Anton P. | [discalen](https://github.com/YBoy-git/discalen) | A discord bot that allows your server to have a single place for recurring events - calendar. The bot syncs with Google Calendar and allows you to control events of your server. Also, the bot sends notifications to the specified channel about an ongoing event.  |
+| 14  | Ivan S. | [Rust Deep Learning](https://github.com/Landay7/rust_deep_learning) | Rust Deep Learning tool for inference.  |
+| 15  | Mikhail M. | [Memory Image Viewer](https://github.com/Dagunov/memory-image-viewer) | This tool allows developers to view and save raw image data directly from other processes memory with no need of modifying code, recompiling and restarting project.  |
+
 ## kma course 2023q3
 
 |  №  | Student       | Project       | Description      |
