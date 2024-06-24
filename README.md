@@ -13,7 +13,7 @@
 | 7   | Maksym K. | [Splittea](https://github.com/khomiakmaxim/rust_splittea_bot/pull/1) | Telegram bot for tracking expenses in a group.  |
 | 8   | Andrii D. | [Ukrzaliznytsya train reminder Telegram bot](https://github.com/perioh/tg-uz-reminder) | Telegram bot to remind you about your train and notify, if the train is being late.  |
 | 9   | Dmytro K. | [cloud-storage-utilizer](https://github.com/BigglesworthCat/cloud-storage-utilizer) | Application for file manipulations on cloud storages.  |
-| 10  | Zhenya A. | [Water simulation](JekiXD/water-simulation (github.com)) | A simple water simulation using particle system, written with WebGPU.  |
+| 10  | Zhenya A. | [Water simulation](https://github.com/JekiXD/water-simulation) | A simple water simulation using particle system, written with WebGPU.  |
 | 11  | Eduard P. | [stool - Image Steganography ](https://github.com/s473573/rust-capstone) | Writing secret messages to pictures.  |
 | 12  | Mark F. | [apiel - APL in Rust](https://github.com/NamesMark/apiel) | A small subset of the APL programming language implemented in Rust with a Yacc parser. Exports an `apl!` macro that evaluates the passed &str as an Dyalog APL expression.  |
 | 13  | Anton P. | [discalen](https://github.com/YBoy-git/discalen) | A discord bot that allows your server to have a single place for recurring events - calendar. The bot syncs with Google Calendar and allows you to control events of your server. Also, the bot sends notifications to the specified channel about an ongoing event.  |
