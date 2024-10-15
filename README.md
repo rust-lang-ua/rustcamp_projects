@@ -20,7 +20,7 @@
 | 14  | Roman Z. | [zipson-playground](https://github.com/zoryamba/zipson-playground) | This simple web-playground allows to convert JSON data to zipson and vice versa in real-time. It is built on top of Leptos (WASM-based reactive front-end framework) and Tailwind (utility-first CSS framework). |
 | 15  | Kyrylo C. | [Json Manipulation Language](https://github.com/kchernokozinsky/json-manipulation-lang) | JML (JSON Manipulation Language) is a purely functional domain-specific language designed for seamless manipulation and transformation of JSON data. |
 | 16  | Mark R. | [DFox](https://github.com/markraiter/dfox/pull/1) | DFox is a Rust-based database management tool that provides a terminal user interface (TUI) for interacting with PostgreSQL and MySQL databases. |
-| 17  | Oleksandr V. | [Panopticon Feedback Bot](https://github.com/Shaonis/panopticonbot) | Telegram бот для зворотнього зв'язку, який для кожного користувача створює окрему гілку на форумі. |
+| 17  | Oleksandr V. | [Panopticon Feedback Bot](https://github.com/Shaonis/panopticonbot) | Telegram feedback bot that creates a separate forum thread for each user who writes to it. Key features: support for any message, display replies, block users, long-polling or webhook. |
 | 18  | Mykyta T. | [Zui.rs - Zookeeper TUI Client](https://github.com/topch1k/zui.rs) | Implementation of a TUI (Text User Interface) for ZooKeeper, which will allow performing basic operations such as reading, writing, modifying, creating, and deleting nodes. |
 | 19  | Vasyl K. | [InstUpd](https://github.com/Citizen4our/inst-upd) | InstUpd - project for Instant Updates on demand that allows you to send a camera shot and create a stream from your Raspberry Pi Zero 2 W via a bot. |
 
