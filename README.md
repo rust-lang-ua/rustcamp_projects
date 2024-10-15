@@ -8,7 +8,7 @@
 | 2   | Pavlo N. | [Telegram test builder](https://github.com/Rabiann/tg-quiz-builder) | Telegram bot allows users to take tests, create new tests, and edit existing ones. It provides an interactive way for both test administrators and participants to engage with quizzes through a simple and user-friendly interface. |
 | 3   | Oleksandr Z. | [Gaussian Blur CLI](https://github.com/FairlyBet/gaussian_blur_cli) | This is a CLI tool that applies gaussian blur to images using OpenGL of version 4.4 and compute shaders. The tool is designed to process a large amount of images, but it is also fit to blur a single image as well. |
 | 4   | Yehor O. | [Rust Tracking Program](https://github.com/Inkvisto/ITracker) | Logging tool crafted to assist users in effectively tracking tasks and their corresponding elapsed time. By offering a systematic approach to logging activities, the program seeks to improve productivity monitoring. |
-| 5   | Serhii Z. | [cli tool для відображення asn1 структур](https://github.com/SergZen/asn1_viewer) | asn1_viewer is a command-line ASN.1 viewer. |
+| 5   | Serhii Z. | [ASN.1 Viewer](https://github.com/SergZen/asn1_viewer) | asn1_viewer is a command-line ASN.1 viewer. |
 | 6   | Vladyslav K. | [Capstone project: Raytracer](https://github.com/projdysvit/raytracer) | The Raytracer project is a GPU-accelerated ray tracing engine implemented in Rust using the wgpu graphics API. |
 | 7   | Ruslan P. | [Розумний ШІ-бот для гіт-хостингів](https://github.com/InAnYan/rust-gib/pull/1) | GitHub bot that uses LLMs to improve and label issues |
 | 8   | Maksym S. | [Video encoding distribution system](https://github.com/master-of-zen/rav1an/pull/1) | A distributed video encoding system built with Rust, gRPC, and FFmpeg. |
