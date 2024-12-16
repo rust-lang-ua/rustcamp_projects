@@ -1,5 +1,30 @@
 # captsones
 
+## summer rustcamp 2024q3
+
+|  №  | Participant       | Project       | Description |
+| --- | ------------- | ------------- | ------------- |
+| 1   | Nazar A. | [Embroidery Studio](https://github.com/niusia-ua/embroidery-studio) | A desktop application for designing cross-stitch patterns. |
+| 2   | Pavlo N. | [Telegram test builder](https://github.com/Rabiann/tg-quiz-builder) | Telegram bot allows users to take tests, create new tests, and edit existing ones. It provides an interactive way for both test administrators and participants to engage with quizzes through a simple and user-friendly interface. |
+| 3   | Oleksandr Z. | [Gaussian Blur CLI](https://github.com/FairlyBet/gaussian_blur_cli) | This is a CLI tool that applies gaussian blur to images using OpenGL of version 4.4 and compute shaders. The tool is designed to process a large amount of images, but it is also fit to blur a single image as well. |
+| 4   | Yehor O. | [Rust Tracking Program](https://github.com/Inkvisto/ITracker) | Logging tool crafted to assist users in effectively tracking tasks and their corresponding elapsed time. By offering a systematic approach to logging activities, the program seeks to improve productivity monitoring. |
+| 5   | Serhii Z. | [ASN.1 Viewer](https://github.com/SergZen/asn1_viewer) | asn1_viewer is a command-line ASN.1 viewer. |
+| 6   | Vladyslav K. | [Capstone project: Raytracer](https://github.com/projdysvit/raytracer) | The Raytracer project is a GPU-accelerated ray tracing engine implemented in Rust using the wgpu graphics API. |
+| 7   | Ruslan P. | [Розумний ШІ-бот для гіт-хостингів](https://github.com/InAnYan/rust-gib/pull/1) | GitHub bot that uses LLMs to improve and label issues |
+| 8   | Maksym S. | [Video encoding distribution system](https://github.com/master-of-zen/rav1an/pull/1) | A distributed video encoding system built with Rust, gRPC, and FFmpeg. |
+| 9   | Illia K. | [DSTU 4145-2002 Rust-native implementation](https://github.com/ikripaka/dstu4145-rust) | Implementation of Ukrainian digital signature standard DSTU 4145-2002 with SHA3-512 hashing function by default. |
+| 10  | Yevhen B. | [Symphonia codec opus](https://github.com/jiztastamablastamarang/symphonia) | Opus decoder implementation as part of the Symphonia crate. |
+| 11  | Agnislav O. | [BrewVer](https://github.com/agnislav/brewver/) | BrewVer is a command-line tool written in Rust that allows you to install a specific version of a Homebrew formula. It fetches the desired version from the Homebrew repository and installs it on your system. |
+| 12  | Dmytro K. | [lost-pixel-diff](https://github.com/hidemire/lost-pixel-diff/tree/feat/lost-pixel-diff) | lost-pixel-diff was developed to address the limitations of the open-source version of lost-pixel, particularly its lack of a user interface for visual testing. This tool adds an easy-to-use UI, making the visual testing process more accessible and streamlined. |
+| 13  | Oleh T. | [Dungoxide](https://github.com/olegtyshcneko/dungoxide/) | Dungeon Generator, designed to create random dungeon layouts for games such as roguelikes or dungeon crawlers. |
+| 14  | Roman Z. | [zipson-playground](https://github.com/zoryamba/zipson-playground) | This simple web-playground allows to convert JSON data to zipson and vice versa in real-time. It is built on top of Leptos (WASM-based reactive front-end framework) and Tailwind (utility-first CSS framework). |
+| 15  | Kyrylo C. | [Json Manipulation Language](https://github.com/kchernokozinsky/json-manipulation-lang) | JML (JSON Manipulation Language) is a purely functional domain-specific language designed for seamless manipulation and transformation of JSON data. |
+| 16  | Mark R. | [DFox](https://github.com/markraiter/dfox/pull/1) | DFox is a Rust-based database management tool that provides a terminal user interface (TUI) for interacting with PostgreSQL and MySQL databases. |
+| 17  | Oleksandr V. | [Panopticon Feedback Bot](https://github.com/Shaonis/panopticonbot) | Telegram feedback bot that creates a separate forum thread for each user who writes to it. Key features: support for any message, display replies, block users, long-polling or webhook. |
+| 18  | Mykyta T. | [Zui.rs - Zookeeper TUI Client](https://github.com/topch1k/zui.rs) | Implementation of a TUI (Text User Interface) for ZooKeeper, which will allow performing basic operations such as reading, writing, modifying, creating, and deleting nodes. |
+| 19  | Vasyl K. | [InstUpd](https://github.com/Citizen4our/inst-upd) | InstUpd - project for Instant Updates on demand that allows you to send a camera shot and create a stream from your Raspberry Pi Zero 2 W via a bot. |
+
+
 ## winter rustcamp 2024q1
 
 |  №  | Participant       | Project       | Description |
