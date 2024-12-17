@@ -1,5 +1,93 @@
 # captsones
 
+
+## kma course 2024q3
+
+|  №  | Student            | Project       | Description      |
+| --- | ------------------ | ------------- | ---------------- |
+| 1   | Kyryl S. | [UE_LOG_Parser](https://github.com/KyrylSydorov/UE_LOG_Parser)  | A simple log parser for Unreal Engine logs, which can be used to extract useful information from logs.                                                                                                                          |
+| 2   | Oleksiy K.| [date_format_parser](https://github.com/okrylchuk/date_format_parser)   | A parser standardizing date and date-time strings into ISO 8601 format.                                                                                                                                                         |
+| 3   | Maksym K. | [rpg-chat-command-parser](https://github.com/Emril44/rpg-chat-command-parser) | A command line parser for RPG-like chat commands. Processes commands such as '/heal Player1', '/equip sword', or '/party invite Player2', validates their structure, and produces structured output for integration into games. |
+| 4   | Олександр K. | [chat_commands_parcer](https://github.com/Kasgor/chat_commands_parcer)    | The theme of the parcer is a command like input in the enviroment like chats of different social apps (Discord, Telegram) It parces users input-commands in format: /command_name identifier (arguments)* I had problems understanding how to work with Makefile This application is a parser built with Rust using the `pest`. It takes command-line input, parses it and displays structured information about the input. |
+| 5   | Олександр S. | [spellcasting_parser](https://github.com/IAlexassassinI/spellcasting_parser)  | Spellcasting Parser is designed to parse and validate spellcasting commands. It allows users to create and validate spells using a variety of components, including modifiers, spell types, and executable actions. |
+| 6   | Mykhailo S. | [recur-func-parser](https://github.com/mshevcenko/recur-func-parser.git)  | parser for general/partial recursive functions and their execution |
+| 7   | Artemii K. | [string_mult](https://github.com/ArtemiiKolomiichuk/string_mult)  | String multiplication commands parser and evaluator |
+| 8   | Tikhon I. | [tikh_email_parser](https://github.com/tikhonishchenko/tikh_email_parser)  | Simple parser of email addresses. |
+| 9   | Illia T. | [http_file_parser](https://github.com/illia-naukma/http_file_parser)  | A Rust-based parser for .http files, parsing HTTP request data using Pest and making parsed requests. |
+| 10  | Інна S. | [rust_calendar_parser](https://github.com/Inez-git/rust_calendar_parser)  | A parser built in Rust for parsing Google Calendar events using Pest grammar rules and converting them to JSON format. |
+| 11  | Olha H. | [ad_event_log_parser](https://github.com/horboliao/rust_course/tree/master/ad_event_log_parser)  | A Rust parser for analyzing ad event logs to extract insights from click report data. |
+| 12  | Володимир H. | [ukma_url_parser](https://github.com/Wow11One/url_parser)  | This Rust project provides functionality for parsing URLs and their components (such as protocol, domains, parameters, etc.) using the rust-pest library. It is designed for analyzing parts of a URL. |
+| 13  | Oleksandr I. | [bobo_html_parser](https://github.com/kalyonekenobe/bobo_html_parser)  | A simple parser of html markdown |
+| 14  | Денис H. | [uri_parser_gdv](https://github.com/greedy-dev/uri_parser_gdv)  | URI Parser is a pest-based parser that breaks URIs into structured components. |
+| 15  | Дмитрій P. | [toml_contact_book_parser](https://github.com/DaimoniX/toml_contact_book_parser)  | Parser for a contact book |
+| 16  | Тимофій S. | [json_pest_parser](https://github.com/amitlos/json_pest_parser/)  | The project is created to help to parse simple .json files by using pest library |
+| 17  | Anton P. | [pysmennyi_phone_parser](https://github.com/BlVrp/pysmennyi_phone_parser)  | A library for parsing, validating, and formatting phone numbers. Comes with a useful CLI |
+| 18  | Поліна P. | [chess_parser](https://github.com/polpena/chess_parser)  | A Rust library for parsing chess games in PGN (Portable Game Notation) format using a custom grammar. |
+| 19  | Oleksandr P. | [ini-parser](https://github.com/Mo1far-wiz/ini-parser)  | This tool was developed as a part of the Rust course at National University of \"Kyiv-Mohyla Academy\". |
+| 20  | Anastasiia C. | [figure_skating_element_parser](https://github.com/nxxtia/figure_skating_element_parser/tree/main/figure_skating_element_parser)  | A parser for recognizing and structuring figure skating elements according to ISU standards. |
+| 21  | Artem S. | [poe_gem_parser](https://github.com/Dan1cos/poe_gem_parser)  | PoE gem parser written in Rust |
+| 22  | Владислав V. | [ua_contact_book](https://github.com/1wannabebetter1/ua_contact_book)  | Parser, which take file filled with lines of contact and converts it into JSON format |
+| 23  | Софія B. | [natural-date-parser](https://github.com/koejdga/natural-date-parser)  | A parser that converts natural language date and time expressions into Rust-compatible DateTime formats. |
+| 24  | Danyil M. | [books_description_parser](https://github.com/DanielMelnyk/books_description_parser)  | A Rust-based parser to extract book details from structured markdown-like text and output them in formats like JSON or Rust structs for further processing. |
+| 25  | Artem T. | [cookie_parser](https://github.com/shabashab/cookie-parser)  | A tool to parse contents of Cookie/Set-Cookie headers |
+| 26  | Данило H. | [xml-parser](https://github.com/X0lotl/xml-parser)  | A command-line interface for parsing XML files. This tool allows you to parse XML files and display their content in a structured format. |
+| 27  | Daniil K. | [operations_parser](https://github.com/dan-kucherenko/operations_parser_kucherenko)  | A Rust-based parser for basic math operations with function support |
+| 28  | Володимир B. | [my-gym-data-rust-parser](https://github.com/nomadflamingo/my-gym-data-rust-parser)  | A Rust parser for my gym data log |
+| 29  | Іван M. | [sql_parser_project](https://github.com/vanyatemno/sql-parser)  | This is a simple project to parse SQL queries using pest crate. Currently parser supports simple select queries whith where conditions. |
+| 30  | Лілія P. | [chemistry_parser](https://github.com/lillydaystar/chemistry_parser)  | A parser for the analysis of chemical elements, formulas and equations. |
+| 31  | Микола A. | [properties-file-parser](https://github.com/AMykolaD/properties-file-parser)  | This is a project for .properties file parsing (https://en.wikipedia.org/wiki/.properties) |
+| 32  | Максим S. | [unit-converter-parser](https://github.com/Getvorg/unit-converter-parser)  | A unit conversion parser using Rust and Pest for syntax parsing. |
+| 33  | Артем T. | [iCalendar_parser](https://github.com/trokhymchuk/rustParser)  | iCalendar (.ical) file parsing and putting into handy structure |
+| 34  | Ілля K. | [log_parser_kma](https://github.com/gra4444/kma_log_parser)  | Rust-based log file parser, helping extract datetime, log levels and messages |
+| 35  | Oleksandr D. | [shopping-parser](https://github.com/ParZZ1vaLl/shopping-parser)  | A Rust-based parser for parsing structured product information and shopping lists, supporting multiple currencies and units. |
+| 36  | Артем H. | [rust_markdown_parser](https://github.com/W1nLin4n/rust_markdown_parser)  | Simplified markdown parser implemented in Rust. |
+| 37  | Artem S. | [vehicle_parser](https://github.com/Localoterre/vehicle_parser)  | Parse data about vehicles to json |
+| 38  | Denys D. | [task_list_parser](https://github.com/den4hic/task_list)  | A Rust-based parser for task lists with priority, status, date, and description fields. |
+| 39  | Владислава R. | [film_parser](https://github.com/siishsusu/film_parser)  | A Rust application for parsing detailed film data from raw text, including information such as title, release year, director, screenwriter, cast, genre, and runtime, into a structured Film struct for easy data analysis and retrieval. |
+| 40  | Vladyslav H. | [json_parser_hibskyi](https://github.com/axterrr/json_parser)  | A simplified JSON parser written in Rust using the Pest parsing library. |
+| 41  | Katya S. | [html_simple_parser](https://github.com/KatyaStriletska/HtmlParser)  | A simple parser for html files to extract tags, child tags, attributes, etc. |
+| 42  | Ivan M. | [csv_parser](https://github.com/IvanKawun/csv_parser_moshkoskyi)  | CSV parser built with Pest parser for Rust. |
+| 43  | Олександра P. | [css-parser-project](https://github.com/sankaaaa/css-parser-project)  | This is a parser, developed on Rust, that will take CSS code and parse it, based on adjusted rules. |
+| 44  | Rinat R. | [rins_markdown_parser](https://github.com/r-rin/rins-markdown-parser)  | Simple markdown parser written on Rust |
+| 45  | Dasha V. | [sql_query_parser](https://github.com/inwut/sql_parser)  | The sql_query_parser project provides a custom Rust parser for SQL-like queries, implemented using the Pest crate. It can parse SELECT statements with advanced query capabilities, including joins, conditional filtering, aggregate functions, grouping, ordering, and limiting the results. |
+| 46  | Oleksandr S. | [ini_file_parser](https://github.com/k1llzers/ini-file-parser)  | A Rust-based parser for INI configuration files, providing structured access to sections and key-value pairs. This parser helps read and manipulate configuration data commonly used in various applications. |
+| 47  | Олексій M. | [morse_code_parser](https://github.com/eyexzy/morse_code_parser?tab=readme-ov-file)  | A Morse code parser and decoder implemented in Rust. |
+| 48  | Oleksiy Z. | [sql-parser](https://github.com/Oleksiy-Zhytnetskyi/SQL-Parser/tree/master)  | This project implements a simple SQL SELECT queries parser written in Rust using the pest crate. It supports a subset of SQL with common features such as SELECT, FROM, WHERE, JOIN, GROUP BY, and basic aggregate functions like SUM, AVG, COUNT, etc. The goal of this parser is to convert SQL-like queries into a structured representation that can later be used for query optimization, execution, or further processing. |
+| 49  | Bohdan P. | [sql_select_parser](https://github.com/heliochromic/sql_select_parser)  | The SQL Parser CLI is a command-line tool designed to parse and analyze SQL SELECT queries. |
+| 50  | Misha T. | [html_parser_tarasenko](https://github.com/MishaTarasenko/HTMLParser)  | Базовий HTML-парсер на Rust з використанням Pest |
+| 51  | Максим M. | [systemd_service_parser](https://github.com/maaaaaaaaaaaaxxxx/systemd-service-parser)  | A simple systemd service file parser |
+| 52  | Андрій N. | [url_pest_parser](https://github.com/0LuminaX0/url_pest_parser)  | A URL parser using pest for Rust. |
+| 53  | Андрій S. | [shopping_list_parser](https://github.com/Invop/shopping_list_parser)  | Shopping-list parser for edu purposes |
+| 54  | Олександр B. | [habit_tracker_parser](https://github.com/necobra/rust-habit-tracker-parser)  | A parser for habit tracking records |
+| 55  | Ruslan O. | [markerml](https://github.com/rchuk/markerml)  | Simple markup and templating language, that is transpiled to HTML. |
+| 56  | Julia S. | [cosmetics_parser](https://github.com/JuliaSkip/cosmetics_parser)  | A Rust-based parser to extract product details from cosmetics catalogs in markdown format and output them in structured formats like JSON or Rust structs. |
+| 57  | Maksym K. | [board_game_parser](https://github.com/toiemax/board_game_parser)  | A Rust-based parser for board game data, designed for efficient data extraction and transformation. |
+| 58  | Tymofii H. | [email_pest_parser](https://github.com/Tim090909/email_pest_parser)  | An email parser that parse entire email and validates email addresses. |
+| 59  | Dasha S. | [sql_query_parser](https://github.com/SvirinaDasha/sql_query_parser)  | SQL Parser using Pest |
+| 60  | Volodymyr M. | [yaml_database_schema_parser](https://github.com/volodymyr2126/yaml_database_schema_parser)  | A YAML parser for database schema files |
+| 61  | Denys S. | [rieltor_parser](https://github.com/denisinside/rieltor_parser)  | A parser for extracting detailed apartment information from the rieltor.ua website's HTML. |
+| 62  | Andrii K. | [weather_parser](https://github.com/AndriiKviatkovskyi/weather_parser)  | A parser for extracting data about weather |
+| 63  | Дмитро Z. | [json_parser_with_pest](https://github.com/ZapikDimka/Main_Parser)  | A JSON parser created in Rust using Pest grammar. |
+| 64  | Dasha P. | [apple_products_parser](https://github.com/filozopdasha/apple_products_parser)  | A tool that processes detailed data about Apple products(Iphones, MacBooks and IPads) |
+| 65  | Nikita T. | [my_rust_css_parser](https://github.com/Nikita-ukma/css_parser)  | A simple CSS parser using the Pest library for Rust. |
+| 66  | Bohdana P. | [xml_language_tag_parser](https://github.com/bohdanaprokopchuk/xml_language_tag_parser)  | A simple XML language tag parser |
+| 67  | Tetiana T. | [regex_parser](https://github.com/ttriukhan/rust_regex_parser)  | This project provides a parser for standard regular expressions based on a defined grammar. |
+| 68  | Sasha S. | [log_parser_by_syn1ak](https://github.com/Syn1ak/log_parser_by_syn1ak)  | A parser for analyzing structured log files, utilizing the Pest parsing library. `log_parser` extracts components such as date, time, log level, module, request ID, error code, and message from each log entry. This enables efficient log analysis, filtering, and reporting, facilitating troubleshooting and monitoring in complex systems. |
+| 69  | Андрій R. | [recipe_parser_andrewromanyk](https://github.com/andrewromanyk/recipe_parser)  | A parser for food recipes. Divides recipes into: name, description, ingredients and instructions. |
+| 70  | Yelyzaveta B. | [cryptocurrency_parser](https://github.com/Bogunok/cryptocurrency_parser)  | A parser of different cryptocurrencies |
+| 71  | Mariia S. | [url_parser](https://github.com/mariiaSychova/url_parser)  | URL Parser is a Rust parser developed to parse URLs into structured components such as scheme, domain, path, query and fragment. |
+| 72  | Illya N. | [international_phone_number_parser](https://github.com/IllyaMoore/InternationalPhoneNumberParserRust)  | A Rust phone number parser using Pest to validate and parse international phone numbers. |
+| 73  | Damian D. | [damians_custom_datetime_parser](https://github.com/damian930/date_and_time_parser)  | Custom library for date and time parsing using pest. |
+| 74  | Максим J. | [my_json_parser_proj](https://github.com/Tutt1Frutty/my_json_parser)  | A CLI JSON parser with customizable error handling and a rule-based parsing system |
+| 75  | Олександр Z. | [manifest_parser_rs](https://github.com/Official-Echo/manifest_parser_rs)  | A Cargo.toml manifest file parser that supports sections and key-value pairs |
+| 77  | Ivan B. | [json_parser](https://github.com/robakiem/json_parser)  | My own json parser using rust + pest for learning purpose. |
+| 77  | Illia A. | [proto-file-parser](https://github.com/snakeaid/proto-file-parser)  | A Protocol Buffer Definition (.proto) parser that converts proto files to JSON format |
+| 78  | Андрій H. | [JSON-parser](https://github.com/AndreHordd/JSON-parser)  | A parser that implements grammar for JSON files |
+
+
+
+
+
 ## summer rustcamp 2024q3
 
 |  №  | Participant       | Project       | Description |
