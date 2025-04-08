@@ -1,5 +1,30 @@
 # captsones
 
+## winter rustcamp 2025q1
+
+|  №  | Student            | Project       | Description      |
+| --- | ------------------ | ------------- | ---------------- |
+| 1   | Roman Beslik       | [BitTorrent media streaming](https://github.com/beroal/vincenzo/tree/capstone_side/capstone_doc)  | A plugin for a BitTorrent client that streams media to a local media player, enabling immediate playback as the file is being downloaded. The plugin supports HTTP streaming and media seeking. |
+| 2   | Denys Kyslytsyn    | [Static Asset Manager for Rust](https://github.com/twentyone212121/asset-manager) | A compile-time static asset manager that embeds files directly into your Rust binary, providing a convenient API to access them. |
+| 3   | Mykhailo Borovyk   | [Solana Voting Dapp](https://github.com/MihuNt3r/solana-voting-dapp) | A decentralized voting application built with Rust, Solana, and Anchor, allowing secure and transparent voting on the Solana blockchain. |
+| 4   | Dmytro Horskyi     | [Rx-Observer](https://github.com/dmgorsky/rx-observerr) | A Rust macro library that adds dynamic features to programs, such as the ability to decorate variables and implement simple checks through Excel-like formulas in tests. |
+| 5   | Yevhenii Hrytsay   | [Markdown Link Checker](https://github.com/eugenescodes/markdown-tool/tree/dev) | A command-line tool that validates markdown files by checking for broken links and applying linting rules. |
+| 6   | Oleksii Titov      | [proc-monitor](https://github.com/aot9/proc-monitor) | A tool for monitoring process memory and file operations using Linux eBPF. |
+| 7   | Vsevolod Bakutov   | [Smart Pot](https://github.com/rybmks/azure-smart-pot) | An IoT system built on the ESP32 platform that collects data from sensors and sends it to Azure, with features like controlling a light bulb and switching temperature units via HTTP. |
+| 8   | Hlib Sobolevskyi   | [Ultrasound_IoT](https://github.com/Hlebushkek/Ultrasound_IoT) | An IoT system for processing mock ultrasound data. |
+| 9   | Serhii Dusyk       | [Promise Keeper](https://github.com/werwoolf/promise_keeper) | A WEB3 project for creating and completing tasks with voting on their success after completion. |
+| 10  | Bohdan Zadorozhny  | [Graph Editor](https://github.com/bzadorozhnyi/graph-editor) | A simple graph editor built with Rust and egui to visualize graph structures. |
+| 11  | Yuriy Shymanskyi   | [Mean Reversion Trading Bot](https://github.com/yurii2007/mean-reversion-trading-bot) | A fully customizable CLI bot in Rust for cryptocurrency trading using a mean reversion strategy. |
+| 12  | Ivan Rybachyk      | [StegoWave](https://github.com/Van4ooo/StegoWave/tree/capstone-project) | An audio steganography service with a CLI client written in Rust. |
+| 13  | Maxym Rybalko      | [Smart Pot](https://github.com/rybmks/azure-smart-pot) | An IoT system based on the ESP32 platform that collects sensor data and sends it to Azure, with features for controlling a light bulb and switching temperature units. |
+| 14  | Vitaliy Kovinskyi  | [NetWatch](https://github.com/JhonnyMahony/NetWatch) | A project for monitoring network traffic, with filtering by protocol and IP, using Tauri and Yew for a secure app with a Rust backend and web-based frontend. |
+| 15  | Kyrylo Ryabov      | [Data Availability System](https://github.com/KyrylR/da-concept/pull/1) | A proof-of-concept P2P system for sharing encrypted data blobs. |
+| 16  | Roman Vasich       | -              | -                |
+| 17  | Ihor Bobulych      | [Lode](https://github.com/ihbobul/lode/blob/main/README.md) | A high-performance API load testing tool in Rust, providing both a CLI and a REST API for remote test execution. |
+| 18  | Vladyslav Lavrishko| [Rustydoku](https://github.com/brizzinck/rustydoku/tree/dev) | A Rust-based game inspired by Woodoku, combining modern design with fast performance for puzzle enthusiasts. |
+| 19  | Oleh Yavorovych    | [Sipacker-UA](https://github.com/9matan/sipacker-ua) | A Rust CLI SIP User Agent (VoIP softphone) that facilitates VoIP communication through a simple command-line interface. |
+| 20  | Andrii Zahorulko   | [Whatawhat](https://github.com/Anoromi/whatawhat/tree/version-1.0) | A CLI/daemon time tracker written in Rust, offering lightweight local tracking of user activities. |
+
 
 ## kma course 2024q3
 
