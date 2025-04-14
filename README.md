@@ -19,11 +19,10 @@
 | 13  | Maxym R.     | [Smart Pot](https://github.com/rybmks/azure-smart-pot) | An IoT system based on the ESP32 platform that collects sensor data and sends it to Azure, with features for controlling a light bulb and switching temperature units. |
 | 14  | Vitaliy K.  | [NetWatch](https://github.com/JhonnyMahony/NetWatch) | A project for monitoring network traffic, with filtering by protocol and IP, using Tauri and Yew for a secure app with a Rust backend and web-based frontend. |
 | 15  | Kyrylo R.      | [Data Availability System](https://github.com/KyrylR/da-concept/pull/1) | A proof-of-concept P2P system for sharing encrypted data blobs. |
-| 16  | Roman V.       | -              | -                |
-| 17  | Ihor B.      | [Lode](https://github.com/ihbobul/lode/blob/main/README.md) | A high-performance API load testing tool in Rust, providing both a CLI and a REST API for remote test execution. |
-| 18  | Vladyslav L.  | [Rustydoku](https://github.com/brizzinck/rustydoku/tree/dev) | A Rust-based game inspired by Woodoku, combining modern design with fast performance for puzzle enthusiasts. |
-| 19  | Oleh Y.    | [Sipacker-UA](https://github.com/9matan/sipacker-ua) | A Rust CLI SIP User Agent (VoIP softphone) that facilitates VoIP communication through a simple command-line interface. |
-| 20  | Andrii Z.   | [Whatawhat](https://github.com/Anoromi/whatawhat/tree/version-1.0) | A CLI/daemon time tracker written in Rust, offering lightweight local tracking of user activities. |
+| 16  | Ihor B.      | [Lode](https://github.com/ihbobul/lode/blob/main/README.md) | A high-performance API load testing tool in Rust, providing both a CLI and a REST API for remote test execution. |
+| 17  | Vladyslav L.  | [Rustydoku](https://github.com/brizzinck/rustydoku/tree/dev) | A Rust-based game inspired by Woodoku, combining modern design with fast performance for puzzle enthusiasts. |
+| 18  | Oleh Y.    | [Sipacker-UA](https://github.com/9matan/sipacker-ua) | A Rust CLI SIP User Agent (VoIP softphone) that facilitates VoIP communication through a simple command-line interface. |
+| 19  | Andrii Z.   | [Whatawhat](https://github.com/Anoromi/whatawhat/tree/version-1.0) | A CLI/daemon time tracker written in Rust, offering lightweight local tracking of user activities. |
 
 
 ## kma course 2024q3
