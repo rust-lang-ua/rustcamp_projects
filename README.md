@@ -1,4 +1,4 @@
-# captsones
+# capstones
 
 ## winter rustcamp 2025q1
 
