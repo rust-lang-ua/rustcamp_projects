@@ -4,7 +4,7 @@
 
 | № | Student | Project | Description | Used AI |
 |---|---|---|---|---|
-| 1 | Roman P. | [ciron](https://github.com/Zaptoss/ciron) | A lightweight process manager daemon written in Rust. Ciron allows you to manage, monitor, and automatically restart processes. Inspired by Supervisor (https://supervisord.org/) and designed for cloud-native environments with support for microVMs and vsock communication. | yes |
+| 1 | Roman P. | [ciron](https://github.com/Zaptoss/ciron) | A lightweight Rust-based process manager that monitors, restarts, and manages processes in cloud-native environments, with support for microVMs and vsock communication. | yes |
 | 2 | Ihor K. | [Rusty Ledger](https://github.com/ihorkaminnyi/Rusty-Ledger/tree/dev) | Rusty Ledger is a desktop app for portfolio analysis, built with Tauri and Vue.js | |
 | 3 | Anna M. | [secretonce](https://github.com/Manyuta/secretonce) | A secure web application written in Rust that allows users to create secrets that can be viewed a limited number of times and/or expire after a time-to-live (TTL). | |
 | 4 | Alla B. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | no |
@@ -12,7 +12,7 @@
 | 6 | Rostyslav K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | |
 | 7 | Mariia K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | |
 | 8 | Oleksandr O. | [Finder Files Organizer](https://github.com/gaiwerspace/Rust/tree/stage/finder-files-organizer) | Simple Finder files CLI organizer for macOS | no |
-| 9 | Serhii M. | [Blocksmith](github) | Blocksmith is an MVP Peer-to-Peer (P2P) blockchain node (client-server at the same time), which provides the functionality of a blockchain network: it accepts and validates transactions from clients, creates new blocks with transactions and distributes them across the P2P network, receives blocks and transactions from other nodes through a synchronization mechanism and uses them for further network operation. | |
+| 9 | Serhii M. | [Blocksmith](github) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | |
 | 10 | Pavlo M. | [betpa](https://github.com/pmikh/matching-engine) | Matching engine for an electronic trading exchange. | |
 | 11 | Pavel U. | [seeing_noise](https://github.com/PaulUlanovskij/seeing_noise/tree/dev) | Interactive procedural noise visualizer | no |
 | 12 | Nikita P. | [zc-splice-proxy](https://github.com/nikitosikvn1/zc-splice-proxy) | High-performance zero-copy SOCKS5 proxy written in Rust | yes |
@@ -27,7 +27,7 @@
 | 21 | Yehor S. | [kulyk-rust](https://github.com/egorsmkv/kulyk-rust) | Rust-based translator that utilizes the KULYK models to do machine translation for English<->Ukrainian | |
 | 22 | Oleksandr H. | [Only Turret Fans](https://github.com/gofmanaa/only_fans_turret) | Is an interactive web service that allows users to remotely control a toy turret and watch its live video stream | no |
 | 23 | Serhii S. | [sysmon-log-analyzer](https://github.com/serhiismoliak/sysmon-log-analyzer) | A lightweight tool for parsing, analyzing, and correlating security-related log data from Windows Sysmon | no |
-| 24 | Volodymyr K. | [Grafana for personal data](https://github.com/krls256/your-stats-app) | The idea behind the app is to store personal data and find correlations between them, for example, calculating your average heart rate during workouts based on your food intake, sleep, etc., or more social data, such as your mood based on the number of hours you spend at the computer. In principle, correlations between any values ​​can be traced. | no |
+| 24 | Volodymyr K. | [Grafana for personal data](https://github.com/krls256/your-stats-app) | An app for storing personal data and discovering correlations, such as linking heart rate, sleep, diet, screen time, or mood to identify behavioral patterns. | no |
 | 25 | Vitaliy C. | [Virtual Gamepad](https://github.com/VitalianoParmezano/Virtual-Gamepad) | Android app that lets you use your smartphone as a gamepad. | |
 
 ## winter rustcamp 2025q1
