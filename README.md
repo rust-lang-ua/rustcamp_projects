@@ -1,34 +1,34 @@
 # capstones
 
-## summer rustcamp 2025q1
+## summer rustcamp 2025q3
 
 | № | Student | Project | Description | Used AI |
 |---|---|---|---|---|
 | 1 | Roman P. | [ciron](https://github.com/Zaptoss/ciron) | A lightweight Rust-based process manager that monitors, restarts, and manages processes in cloud-native environments, with support for microVMs and vsock communication. | yes |
-| 2 | Ihor K. | [Rusty Ledger](https://github.com/ihorkaminnyi/Rusty-Ledger/tree/dev) | Rusty Ledger is a desktop app for portfolio analysis, built with Tauri and Vue.js | |
+| 2 | Ihor K. | [Rusty Ledger](https://github.com/ihorkaminnyi/Rusty-Ledger/tree/dev) | Rusty Ledger is a desktop app for portfolio analysis, built with Tauri and Vue.js | no |
 | 3 | Anna M. | [secretonce](https://github.com/Manyuta/secretonce) | A secure web application written in Rust that allows users to create secrets that can be viewed a limited number of times and/or expire after a time-to-live (TTL). | |
 | 4 | Alla B. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | no |
 | 5 | Oleh C. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | yes |
-| 6 | Rostyslav K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | |
+| 6 | Rostyslav K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | yes |
 | 7 | Mariia K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | |
 | 8 | Oleksandr O. | [Finder Files Organizer](https://github.com/gaiwerspace/Rust/tree/stage/finder-files-organizer) | Simple Finder files CLI organizer for macOS | no |
-| 9 | Serhii M. | [Blocksmith](github) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | |
-| 10 | Pavlo M. | [betpa](https://github.com/pmikh/matching-engine) | Matching engine for an electronic trading exchange. | |
+| 9 | Serhii M. | [Blocksmith](github) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | no |
+| 10 | Pavlo M. | [betpa](https://github.com/pmikh/matching-engine) | Matching engine for an electronic trading exchange. | yes |
 | 11 | Pavel U. | [seeing_noise](https://github.com/PaulUlanovskij/seeing_noise/tree/dev) | Interactive procedural noise visualizer | no |
 | 12 | Nikita P. | [zc-splice-proxy](https://github.com/nikitosikvn1/zc-splice-proxy) | High-performance zero-copy SOCKS5 proxy written in Rust | yes |
 | 13 | Oleksandr A. | [PeerDrop](https://github.com/Wiseliciouz/rust-p2p-file-transfer) | Peer-to-peer (P2P) file transfer application built with Rust. | no |
-| 14 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | |
+| 14 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | no |
 | 15 | Ivan K. | [dashboard](https://github.com/alchezar/dashboard) | Proxmox Management Platform | no |
-| 16 | Mark F. | [mertalizer](https://github.com/NamesMark/mertalizer) | Detect musical structure boundaries and assign section labels using MERT SSL encoder. | |
+| 16 | Mark F. | [mertalizer](https://github.com/NamesMark/mertalizer) | Detect musical structure boundaries and assign section labels using MERT SSL encoder. | yes |
 | 17 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | |
 | 18 | Vitaliy B. | [reface](https://github.com/brenik/reface) | High-performance Rust inference server for facial attribute prediction using PyTorch-trained CNN model. | |
-| 19 | Illia T. | [prompt_injection_detector](https://github.com/Wandalen/prompt_injection_detector) | Prompt injection detection project with ORT and Burn backends built in Rust that provides a CLI interface for classifying text as benign or malicious using a ModernBERT-based binary classifier. | |
-| 20 | Viacheslav O. | [currencyexchange](https://github.com/viacheslavokolitiy/currencyexchange) | Decentralized currency exchange concept | |
+| 19 | Illia T. | [prompt_injection_detector](https://github.com/Wandalen/prompt_injection_detector) | Prompt injection detection project with ORT and Burn backends built in Rust that provides a CLI interface for classifying text as benign or malicious using a ModernBERT-based binary classifier. | yes |
+| 20 | Viacheslav O. | [currencyexchange](https://github.com/viacheslavokolitiy/currencyexchange) | Decentralized currency exchange concept | no |
 | 21 | Yehor S. | [kulyk-rust](https://github.com/egorsmkv/kulyk-rust) | Rust-based translator that utilizes the KULYK models to do machine translation for English<->Ukrainian | |
 | 22 | Oleksandr H. | [Only Turret Fans](https://github.com/gofmanaa/only_fans_turret) | Is an interactive web service that allows users to remotely control a toy turret and watch its live video stream | no |
 | 23 | Serhii S. | [sysmon-log-analyzer](https://github.com/serhiismoliak/sysmon-log-analyzer) | A lightweight tool for parsing, analyzing, and correlating security-related log data from Windows Sysmon | no |
 | 24 | Volodymyr K. | [Grafana for personal data](https://github.com/krls256/your-stats-app) | An app for storing personal data and discovering correlations, such as linking heart rate, sleep, diet, screen time, or mood to identify behavioral patterns. | no |
-| 25 | Vitaliy C. | [Virtual Gamepad](https://github.com/VitalianoParmezano/Virtual-Gamepad) | Android app that lets you use your smartphone as a gamepad. | |
+| 25 | Vitaliy C. | [Virtual Gamepad](https://github.com/VitalianoParmezano/Virtual-Gamepad) | Android app that lets you use your smartphone as a gamepad. | yes |
 
 ## winter rustcamp 2025q1
 
