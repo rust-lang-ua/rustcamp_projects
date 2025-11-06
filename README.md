@@ -6,11 +6,11 @@
 |---|---|---|---|---|
 | 1 | Roman P. | [ciron](https://github.com/Zaptoss/ciron) | A lightweight Rust-based process manager that monitors, restarts, and manages processes in cloud-native environments, with support for microVMs and vsock communication. | yes |
 | 2 | Ihor K. | [Rusty Ledger](https://github.com/ihorkaminnyi/Rusty-Ledger/tree/dev) | Rusty Ledger is a desktop app for portfolio analysis, built with Tauri and Vue.js | no |
-| 3 | Anna M. | [secretonce](https://github.com/Manyuta/secretonce) | A secure web application written in Rust that allows users to create secrets that can be viewed a limited number of times and/or expire after a time-to-live (TTL). | |
+| 3 | Anna M. | [secretonce](https://github.com/Manyuta/secretonce) | A secure web application written in Rust that allows users to create secrets that can be viewed a limited number of times and/or expire after a time-to-live (TTL). | yes |
 | 4 | Alla B. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | no |
 | 5 | Oleh C. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | yes |
 | 6 | Rostyslav K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | yes |
-| 7 | Mariia K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | |
+| 7 | Mariia K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | no |
 | 8 | Oleksandr O. | [Finder Files Organizer](https://github.com/gaiwerspace/Rust/tree/stage/finder-files-organizer) | Simple Finder files CLI organizer for macOS | no |
 | 9 | Serhii M. | [Blocksmith](github) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | no |
 | 10 | Pavlo M. | [betpa](https://github.com/pmikh/matching-engine) | Matching engine for an electronic trading exchange. | yes |
