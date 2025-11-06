@@ -20,8 +20,8 @@
 | 14 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | no |
 | 15 | Ivan K. | [dashboard](https://github.com/alchezar/dashboard) | Proxmox Management Platform | no |
 | 16 | Mark F. | [mertalizer](https://github.com/NamesMark/mertalizer) | Detect musical structure boundaries and assign section labels using MERT SSL encoder. | yes |
-| 17 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | |
-| 18 | Vitaliy B. | [reface](https://github.com/brenik/reface) | High-performance Rust inference server for facial attribute prediction using PyTorch-trained CNN model. | |
+| 17 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | no |
+| 18 | Vitaliy B. | [reface](https://github.com/brenik/reface) | High-performance Rust inference server for facial attribute prediction using PyTorch-trained CNN model. | no |
 | 19 | Illia T. | [prompt_injection_detector](https://github.com/Wandalen/prompt_injection_detector) | Prompt injection detection project with ORT and Burn backends built in Rust that provides a CLI interface for classifying text as benign or malicious using a ModernBERT-based binary classifier. | yes |
 | 20 | Viacheslav O. | [currencyexchange](https://github.com/viacheslavokolitiy/currencyexchange) | Decentralized currency exchange concept | no |
 | 21 | Yehor S. | [kulyk-rust](https://github.com/egorsmkv/kulyk-rust) | Rust-based translator that utilizes the KULYK models to do machine translation for English<->Ukrainian | |
