@@ -15,7 +15,7 @@
 | 9 | Oleksandr O. | [Finder Files Organizer](https://github.com/gaiwerspace/Rust/tree/stage/finder-files-organizer) | Simple Finder files CLI organizer for macOS | yes |
 | 10 | Serhii M. | [Blocksmith](https://github.com/smak0v/blocksmith/tree/v0.1.0) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | yes |
 | 11 | Pavlo M. | [betpa](https://github.com/pmikh/matching-engine) | Matching engine for an electronic trading exchange. | yes |
-| 12 | Pavel U. | [seeing_noise](https://github.com/PaulUlanovskij/seeing_noise/tree/dev) | Interactive procedural noise visualizer | no |
+| 12 | Pavel U. | [seeing_noise](https://github.com/PaulUlanovskij/seeing_noise/tree/dev) | Interactive procedural noise visualizer | yes |
 | 13 | Nikita P. | [zc-splice-proxy](https://github.com/nikitosikvn1/zc-splice-proxy) | High-performance zero-copy SOCKS5 proxy written in Rust | yes |
 | 14 | Oleksandr A. | [PeerDrop](https://github.com/Wiseliciouz/rust-p2p-file-transfer) | Peer-to-peer (P2P) file transfer application built with Rust. | no |
 | 15 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | no |
