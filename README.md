@@ -19,7 +19,7 @@
 | 13 | Nikita P. | [zc-splice-proxy](https://github.com/nikitosikvn1/zc-splice-proxy) | High-performance zero-copy SOCKS5 proxy written in Rust | yes |
 | 14 | Oleksandr A. | [PeerDrop](https://github.com/Wiseliciouz/rust-p2p-file-transfer) | Peer-to-peer (P2P) file transfer application built with Rust. | no |
 | 15 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | no |
-| 16 | Ivan K. | [dashboard](https://github.com/alchezar/dashboard) | Proxmox Management Platform | no |
+| 16 | Ivan K. | [dashboard](https://github.com/alchezar/dashboard) | Proxmox Management Platform | yes |
 | 17 | Mark F. | [mertalizer](https://github.com/NamesMark/mertalizer) | Detect musical structure boundaries and assign section labels using MERT SSL encoder. | yes |
 | 18 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | no |
 | 19 | Vitaliy B. | [reface](https://github.com/brenik/reface) | High-performance Rust inference server for facial attribute prediction using PyTorch-trained CNN model. | no |
