@@ -24,7 +24,7 @@
 | 19 | Illia T. | [prompt_injection_detector](https://github.com/Wandalen/prompt_injection_detector) | Prompt injection detection project with ORT and Burn backends built in Rust that provides a CLI interface for classifying text as benign or malicious using a ModernBERT-based binary classifier. | yes |
 | 20 | Viacheslav O. | [currencyexchange](https://github.com/viacheslavokolitiy/currencyexchange) | Decentralized currency exchange concept | yes |
 | 21 | Yehor S. | [kulyk-rust](https://github.com/egorsmkv/kulyk-rust) | Rust-based translator that utilizes the KULYK models to do machine translation for English<->Ukrainian | yes |
-| 22 | Oleksandr H. | [Only Turret Fans](https://github.com/gofmanaa/only_fans_turret) | Is an interactive web service that allows users to remotely control a toy turret and watch its live video stream | no |
+| 22 | Oleksandr H. | [Only Turret Fans](https://github.com/gofmanaa/only_fans_turret) | Is an interactive web service that allows users to remotely control a toy turret and watch its live video stream | yes |
 | 23 | Serhii S. | [sysmon-log-analyzer](https://github.com/serhiismoliak/sysmon-log-analyzer) | A lightweight tool for parsing, analyzing, and correlating security-related log data from Windows Sysmon | no |
 | 24 | Volodymyr K. | [Grafana for personal data](https://github.com/krls256/your-stats-app) | An app for storing personal data and discovering correlations, such as linking heart rate, sleep, diet, screen time, or mood to identify behavioral patterns. | no |
 | 25 | Vitaliy C. | [Virtual Gamepad](https://github.com/VitalianoParmezano/Virtual-Gamepad) | Android app that lets you use your smartphone as a gamepad. | yes |
