@@ -18,7 +18,7 @@
 | 12 | Pavel U. | [seeing_noise](https://github.com/PaulUlanovskij/seeing_noise/tree/dev) | Interactive procedural noise visualizer | yes |
 | 13 | Nikita P. | [zc-splice-proxy](https://github.com/nikitosikvn1/zc-splice-proxy) | High-performance zero-copy SOCKS5 proxy written in Rust | yes |
 | 14 | Oleksandr A. | [PeerDrop](https://github.com/Wiseliciouz/rust-p2p-file-transfer) | Peer-to-peer (P2P) file transfer application built with Rust. | yes |
-| 15 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | no |
+| 15 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | yes |
 | 16 | Ivan K. | [dashboard](https://github.com/alchezar/dashboard) | Proxmox Management Platform | yes |
 | 17 | Mark F. | [mertalizer](https://github.com/NamesMark/mertalizer) | Detect musical structure boundaries and assign section labels using MERT SSL encoder. | yes |
 | 18 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | yes | 
