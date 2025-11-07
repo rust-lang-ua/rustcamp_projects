@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 | 1 | Kostiantyn M. | [api_llm](https://github.com/Wandalen/api_llm) | This workspace provides thin, transparent API bindings for LLM services. Each crate is a direct HTTP client that maps 1:1 to the provider's REST API without abstraction layers or automatic behaviors. | yes |
 | 2 | Roman P. | [ciron](https://github.com/Zaptoss/ciron) | A lightweight Rust-based process manager that monitors, restarts, and manages processes in cloud-native environments, with support for microVMs and vsock communication. | yes |
-| 3 | Ihor K. | [Rusty Ledger](https://github.com/ihorkaminnyi/Rusty-Ledger/tree/dev) | Rusty Ledger is a desktop app for portfolio analysis, built with Tauri and Vue.js | no |
+| 3 | Ihor K. | [Rusty Ledger](https://github.com/ihorkaminnyi/Rusty-Ledger/tree/dev) | Rusty Ledger is a desktop app for portfolio analysis, built with Tauri and Vue.js | yes |
 | 4 | Anna M. | [secretonce](https://github.com/Manyuta/secretonce) | A secure web application written in Rust that allows users to create secrets that can be viewed a limited number of times and/or expire after a time-to-live (TTL). | yes |
-| 5 | Alla B. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | no |
+| 5 | Alla B. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | yes |
 | 6 | Oleh C. | [RUTA](https://github.com/CubikRuubik/ruta) | Desktop application for real-time monitoring and analytics of ERC-20 token transfers on Ethereum | yes |
 | 7 | Rostyslav K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | yes |
 | 8 | Mariia K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | no |
@@ -21,15 +21,14 @@
 | 15 | Valentyn S. | [elf-packer](https://github.com/ValentynShchetnov/elf-packer/tree/develop) | Cli application that compresses an elf executable and combines it with decompression code into a single executable with optional encryption. | no |
 | 16 | Ivan K. | [dashboard](https://github.com/alchezar/dashboard) | Proxmox Management Platform | yes |
 | 17 | Mark F. | [mertalizer](https://github.com/NamesMark/mertalizer) | Detect musical structure boundaries and assign section labels using MERT SSL encoder. | yes |
-| 18 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | no |
-| 19 | Vitaliy B. | [reface](https://github.com/brenik/reface) | High-performance Rust inference server for facial attribute prediction using PyTorch-trained CNN model. | no |
-| 20 | Illia T. | [prompt_injection_detector](https://github.com/Wandalen/prompt_injection_detector) | Prompt injection detection project with ORT and Burn backends built in Rust that provides a CLI interface for classifying text as benign or malicious using a ModernBERT-based binary classifier. | yes |
-| 21 | Viacheslav O. | [currencyexchange](https://github.com/viacheslavokolitiy/currencyexchange) | Decentralized currency exchange concept | no |
-| 22 | Yehor S. | [kulyk-rust](https://github.com/egorsmkv/kulyk-rust) | Rust-based translator that utilizes the KULYK models to do machine translation for English<->Ukrainian | |
-| 23 | Oleksandr H. | [Only Turret Fans](https://github.com/gofmanaa/only_fans_turret) | Is an interactive web service that allows users to remotely control a toy turret and watch its live video stream | no |
-| 24 | Serhii S. | [sysmon-log-analyzer](https://github.com/serhiismoliak/sysmon-log-analyzer) | A lightweight tool for parsing, analyzing, and correlating security-related log data from Windows Sysmon | no |
-| 25 | Volodymyr K. | [Grafana for personal data](https://github.com/krls256/your-stats-app) | An app for storing personal data and discovering correlations, such as linking heart rate, sleep, diet, screen time, or mood to identify behavioral patterns. | no |
-| 26 | Vitaliy C. | [Virtual Gamepad](https://github.com/VitalianoParmezano/Virtual-Gamepad) | Android app that lets you use your smartphone as a gamepad. | yes |
+| 18 | Vitaliy B. | [zeroCache](https://github.com/brenik/ZeroCache) | ZeroCache is a simple in-memory cache system in Rust. A high-performance in-memory JSON cache server with HTTP API. | yes | 
+| 19 | Illia T. | [prompt_injection_detector](https://github.com/Wandalen/prompt_injection_detector) | Prompt injection detection project with ORT and Burn backends built in Rust that provides a CLI interface for classifying text as benign or malicious using a ModernBERT-based binary classifier. | yes |
+| 20 | Viacheslav O. | [currencyexchange](https://github.com/viacheslavokolitiy/currencyexchange) | Decentralized currency exchange concept | yes |
+| 21 | Yehor S. | [kulyk-rust](https://github.com/egorsmkv/kulyk-rust) | Rust-based translator that utilizes the KULYK models to do machine translation for English<->Ukrainian | |
+| 22 | Oleksandr H. | [Only Turret Fans](https://github.com/gofmanaa/only_fans_turret) | Is an interactive web service that allows users to remotely control a toy turret and watch its live video stream | no |
+| 23 | Serhii S. | [sysmon-log-analyzer](https://github.com/serhiismoliak/sysmon-log-analyzer) | A lightweight tool for parsing, analyzing, and correlating security-related log data from Windows Sysmon | no |
+| 24 | Volodymyr K. | [Grafana for personal data](https://github.com/krls256/your-stats-app) | An app for storing personal data and discovering correlations, such as linking heart rate, sleep, diet, screen time, or mood to identify behavioral patterns. | no |
+| 25 | Vitaliy C. | [Virtual Gamepad](https://github.com/VitalianoParmezano/Virtual-Gamepad) | Android app that lets you use your smartphone as a gamepad. | yes |
 
 ## winter rustcamp 2025q1
 
