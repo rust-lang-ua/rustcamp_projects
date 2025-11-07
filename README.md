@@ -13,7 +13,7 @@
 | 7 | Rostyslav K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | yes |
 | 8 | Mariia K. | [co-write](https://github.com/FantRS/co-write) | Website that functions as a synchronous text editor. Multiple users can edit a document at the same time, and changes are visible in real time. | no |
 | 9 | Oleksandr O. | [Finder Files Organizer](https://github.com/gaiwerspace/Rust/tree/stage/finder-files-organizer) | Simple Finder files CLI organizer for macOS | no |
-| 10 | Serhii M. | [Blocksmith](github) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | no |
+| 10 | Serhii M. | [Blocksmith](https://github.com/smak0v/blocksmith/tree/v0.1.0) | A minimal P2P blockchain node that validates transactions, creates blocks, synchronizes with other nodes, and functions as both client and server in the network. | yes |
 | 11 | Pavlo M. | [betpa](https://github.com/pmikh/matching-engine) | Matching engine for an electronic trading exchange. | yes |
 | 12 | Pavel U. | [seeing_noise](https://github.com/PaulUlanovskij/seeing_noise/tree/dev) | Interactive procedural noise visualizer | no |
 | 13 | Nikita P. | [zc-splice-proxy](https://github.com/nikitosikvn1/zc-splice-proxy) | High-performance zero-copy SOCKS5 proxy written in Rust | yes |
