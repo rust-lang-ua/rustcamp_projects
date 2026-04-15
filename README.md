@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | 1 | Yehor Sytnyk | [Music Manager](https://github.com/pencelheimer/music-manager) | Modular and fault-tolerant systems for automated music library organization | yes |
 | 2 | Dmytro Misik | [Cipher](https://github.com/misikdmytro/cipher) | Secrets Rotation Manager | yes |
-| 3 | Volodymyr Levchuk | [A lightweight, local-first (mqtt) sensors telemetry hub](https://github.com/vol-lev/varta-hub) | A lightweight, local-first (MQTT) sensors telemetry hub - an engine to build analytics and automations | no |
+| 3 | Volodymyr Levchuk | [A lightweight, local-first (mqtt) sensors telemetry hub](https://github.com/vol-lev/varta-hub) | A lightweight, local-first (MQTT) sensors telemetry hub - an engine to build analytics and automations | yes |
 | 4 | Anton Pokhylenko | [elevation-kit](https://github.com/pokhanto/elevation-kit-rs) | Set of tools for preparing elevation datasets and serving elevation data over different transports. | yes |
 | 5 | Andrew Kruhlykh | [DeutschDB](https://github.com/Andrewsis/deutsch) | German dictionary | yes |
 | 6 | Yevhenii Hrynov | [High-Performance API Gateway](https://github.com/YevhenHrynov/rust-api-gateway) | High-Performance API Gateway is an asynchronous inbound traffic management and orchestration system between microservices that uses hyper and tokio for low-level request processing | yes |
