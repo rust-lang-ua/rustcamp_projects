@@ -10,7 +10,7 @@
 | 4 | Anton Pokhylenko | [elevation-kit](https://github.com/pokhanto/elevation-kit-rs) | Set of tools for preparing elevation datasets and serving elevation data over different transports. | yes |
 | 5 | Andrew Kruhlykh | [DeutschDB](https://github.com/Andrewsis/deutsch) | German dictionary | yes |
 | 6 | Yevhenii Hrynov | [High-Performance API Gateway](https://github.com/YevhenHrynov/rust-api-gateway) | High-Performance API Gateway is an asynchronous inbound traffic management and orchestration system between microservices that uses hyper and tokio for low-level request processing | yes |
-| 7 | Oleksandr Bukraba | [assistant_kit](https://github.com/iron-cage/assistant_kit) | A tool that enhances the overall user experience of Claude Code. | yes |
+| 7 | Oleksandr Bukraba | [assistant_kit](https://github.com/iron-cage/assistant_kit) | A tool that enhances the overall user experience of Claude Code | yes |
 
 ## summer rustcamp 2025q3
 
