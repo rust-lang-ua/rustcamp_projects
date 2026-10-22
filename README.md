@@ -6,17 +6,17 @@
 |---|---|---|---|---|
 | 1 | Valerii D. | [Memsi](https://github.com/demvy/memsi) | Memecoin finder bot for LP farming: finds tokens by user-defined strategies and risk profiles and sends notifications via CLI logs and Telegram. | yes |
 | 2 | Serhii R. | [Smart Home Lab](https://github.com/Sergei2404/smart-home-lab) | Platform with a web UI for creating virtual smart-home devices, scripted scenarios and an MQTT bridge to Home Assistant. | yes |
-| 3 | Serhii S. | [MQL](https://github.com/sirynka/mql) | A small query language for conveniently filtering a local music library. | yes |
+| 3 | Serhii S. | [Music Query Language](https://github.com/sirynka/mql) | A small DSL for conveniently filtering a local music library. | yes |
 | 4 | Polina Z. | [Music Recommendation System](https://github.com/rini1ko/music-rec-sys) | A hybrid music recommender in Rust that learns from Last.fm listening history, combines five models with a set of rules into one ranked list and explains every recommended track. Runs as a CLI tool and as an HTTP API. | yes |
 | 5 | Andrii N. | [Koof](https://github.com/anasinnyk/koof) | Kubernetes OpenAPI Operator Framework: Kubernetes operators generated from OpenAPI documents. | yes |
 | 6 | Dmytro H. | [Treasury](https://github.com/herkoss/treasury) | An asset ledger with consent-based settlement. | yes |
-| 7 | Andrii S. | [RustLens](https://github.com/And-Rij/RustLens) | A local English-to-Ukrainian screen translator with translation history and Anki export. | yes |
+| 7 | Roman U. | [Multimodal RAG Server](https://github.com/LightRem/rag-server) | An AI search system that answers questions using only the data in its own database, passing it as context to an external LLM rather than training a model. | yes |
 | 8 | Ihor T. | [Exact](https://github.com/Wandalen/exact) | Financial arithmetic for trading. | yes |
-| 9 | Serhii S. | [Ring](https://github.com/Wandalen/ring) | A lock-free family of ring buffers: many producers publish items, and a single consumer drains them in one stable order without a shared lock on the write path. | yes |
+| 9 | Serhii S. | [Ring](https://github.com/Wandalen/ring) | Lock-free ring buffer factory: many producers publish items, and a single consumer drains them in one stable order without a shared lock on the write path. | yes |
 | 10 | Anatolii S. | [Exchange](https://github.com/Wandalen/exchange) | Orders matching engine. | yes |
 | 11 | Ihor F. | [Exchange](https://github.com/Wandalen/exchange) | A price-time-priority limit order book and matching engine with escrow reservation ahead of every match and a zero-sum conservation check on every settlement. | yes |
-| 12 | Mykola T. | [CI with WebAssembly Runtime](https://github.com/nikoslikius/ci-with-wasm) | Programmable CI system where a Rust core (WASM host) exposes Git operations, script execution and the build environment through a WebAssembly interface, while pipeline logic is written as WASM modules in any language. | yes |
-| 13 | Roman U. | [Multimodal RAG Server](https://github.com/LightRem/rag-server) | An AI search system that answers questions using only the data in its own database, passing it as context to an external LLM rather than training a model. | yes |
+| 12 | Andrii S. | [RustLens](https://github.com/And-Rij/RustLens) | A local English-to-Ukrainian screen translator with translation history and Anki export. | yes |
+| 13 | Mykola T. | [CI with WebAssembly Runtime](https://github.com/nikoslikius/ci-with-wasm) | CI system where a Rust core (WASM host) exposes a controlled set of functions (Git operations, script execution, build environment) through a WebAssembly interface. Pipeline logic is written as WASM modules in any language that compiles to WASM. | yes |
 | 14 | Yevhen S. | [RouteForge](https://github.com/yevhenstarling/RouteForge) | Turns a day's parcel orders into optimized courier routes and spreads the route search over horizontally scalable solvers. | yes |
 
 ## winter rustcamp 2026q1
